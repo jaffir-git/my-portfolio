@@ -33,7 +33,7 @@ const PROJECTS = [
     modalDesc: "Designed the core developer interface for satellite component configuration, code generation, test environment management, and operations. Prioritised clarity for technically complex multi-step workflows.",
     chips: ["Spacetech", "SaaS"],
     img: IMG_SPACE,
-    figma: "https://www.figma.com/proto/90Sbjx1Z4S18lt4F5X9EBK/Project---portfolio-presentation?node-id=13-3571&viewport=5801%2C515%2C0.35&t=fckiDtGAc6SyXtJR-1&scaling=scale-down-width&content-scaling=fixed&page-id=1%3A2",
+    figma: "https://www.figma.com/proto/90Sbjx1Z4S18lt4F5X9EBK/Project---portfolio-presentation?node-id=213-155688&viewport=1550%2C1549%2C0.08&t=WlJPUxGWxB5HvMvC-1&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=3%3A18997&page-id=1%3A3",
   },
 ];
 
