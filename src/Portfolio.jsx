@@ -13,7 +13,7 @@ const PROJECTS = [
     modalDesc: "End-to-end dashboard design for enterprise telecom operations — covering order management, network monitoring, real-time analytics, and incident tracking. Focused on reducing cognitive load for complex enterprise workflows.",
     chips: ["Telecommunications", "Enterprise", "SaaS"],
     img: IMG_TCX,
-    figma: "https://www.figma.com/proto/einqJQIK0oILEhS4rOrYGI/Tata-Communications?node-id=5-31001&viewport=186%2C134%2C0.31&t=6EvtS0y3yYFSI21t-1&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=5%3A31001&page-id=0%3A1",
+    figma: "https://www.figma.com/proto/90Sbjx1Z4S18lt4F5X9EBK/Project---portfolio-presentation?node-id=218-21782&viewport=1986%2C4621%2C0.08&t=YWnlupTWN8qtcaMH-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=218%3A21782&page-id=1%3A2",
   },
   {
     id: 1,
@@ -23,7 +23,7 @@ const PROJECTS = [
     modalDesc: "Designed B2B dashboards covering employee management, attendance tracking, payroll, and leave management — with a focus on data clarity and density. Built reusable components to speed up developer implementation.",
     chips: ["Management", "SaaS", "Dashboard"],
     img: IMG_HRMS,
-    figma: "https://www.figma.com/proto/90Sbjx1Z4S18lt4F5X9EBK/Project---portfolio-presentation?node-id=1-46394&viewport=207%2C251%2C0.1&t=5deFlwqAeApfuhl1-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1",
+    figma: "https://www.figma.com/proto/90Sbjx1Z4S18lt4F5X9EBK/Project---portfolio-presentation?node-id=218-22103&viewport=332%2C10356%2C0.19&t=2lBS6v4R2x7wd5rs-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=218%3A22103&page-id=1%3A2",
   },
   {
     id: 2,
